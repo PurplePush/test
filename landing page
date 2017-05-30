@@ -2,11 +2,6 @@
 <html>
 <head>
   <title>SchoolMatch Analysis</title>
-  <style>
-    img {
-    border-radius: 100%;
-    }
-  </style>
 </head>
 <body>
   <!-- Center w/ CSS -->
