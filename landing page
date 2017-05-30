@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>SchoolMatch</title>
 </head>
 <body>
-</body>
+  <!-- Center w/ CSS -->
+	<h1>SchoolMatch</h1>
+  <h3>1. Discover</h3>
+  <h3>2. Compare</h3>
+  <h3>3. Best fit</h3>
+  <h3>4. Further services</h3>
+  <h3>5. Transaction</h3>
+</body> 
 </html>
