@@ -6,18 +6,28 @@
 <body>
   <!-- Center w/ CSS -->
 	<h1>SchoolMatch</h1>
-  <h3>1. Discover</h3>
+  <div id="Discover">
+    <h3>1. Discover</h3>
   <br/>
   <img src="http://www.waynecc.edu/wp-content/uploads/college-logos-02.jpg"/>
-  <h3>2. Compare</h3>
-  <img src="https://www.cappex.com/assets/c-170976/logos/university-of-michigan-ann-arbor_2013-10-08_12-47-29.648.jpg"/>
-  <img src="https://collegeboundmentor.com/wp-content/uploads/2017/03/clemson-university.jpg"/>
-  <img src="https://pbs.twimg.com/profile_images/667569099300405248/ba6dE8pg.png"/>  
-  <h3>3. Best fit</h3>
-  <img src="https://pbs.twimg.com/profile_images/667569099300405248/ba6dE8pg.png"/> 
-  <h3>4. Further services</h3>
-  <p>Information trawling will allow us to identify the "best path" for a student conditioned on their preferences for...[price, career path, location, alumni network, etc...] Also important is weighting these preferences correctly.</p>
-  <h3>5. Transaction</h3>
-  <p>Is it possible for us to be the point of transaction?</p>
+  </div>
+  <div id="Compare">
+    <h3>2. Compare</h3>
+    <img src="https://www.cappex.com/assets/c-170976/logos/university-of-michigan-ann-arbor_2013-10-08_12-47-29.648.jpg"/>
+    <img src="https://collegeboundmentor.com/wp-content/uploads/2017/03/clemson-university.jpg"/>
+    <img src="https://pbs.twimg.com/profile_images/667569099300405248/ba6dE8pg.png"/>
+  </div>
+  <div id="Best fit">
+    <h3>3. Best fit</h3>
+    <img src="https://pbs.twimg.com/profile_images/667569099300405248/ba6dE8pg.png"/> 
+  </div>
+  <div id="Further services">
+    <h3>4. Further services</h3>
+    <p>Information trawling will allow us to identify the "best path" for a student conditioned on their preferences for...[price, career path, location, alumni network, etc...] Also important is weighting these preferences correctly.</p>
+  </div>
+  <div id="Transaction">
+    <h3>5. Transaction</h3>
+    <p>Is it possible for us to be the point of transaction?</p>
+  </div>
 </body> 
 </html>
